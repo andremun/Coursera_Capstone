@@ -1,8 +1,11 @@
-.png
-.bib
-.aux
-.tex
-.bbl
+*.png
+*.bib
+*.aux
+*.tex
+*.bbl
+*.bib.*
+*.gz
+*.blg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
